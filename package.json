@@ -2,11 +2,13 @@
   "name": "olight-erp",
   "version": "1.0.0",
   "description": "Login app with role-based quick access",
+  "type": "module",
   "main": "src/index.jsx",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "lucide-react": "^0.300.0"
+    "lucide-react": "^0.300.0",
+    "recharts": "^2.12.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.0",
